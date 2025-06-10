@@ -1,4 +1,4 @@
-# <h1 style="color: #2c3e50; text-align: center;">Shopping Cart - WET Assignment</h1>
+<h1 style="color: #2c3e50; text-align: center;">Shopping Cart - WET Assignment</h1>
 
 <div style="text-align: center; font-size: 1.2em; color: #34495e;">
     This is a simple shopping cart system built using HTML, CSS (Bootstrap), PHP, and MySQL. It provides a simple e-commerce platform where an admin can manage products and users can browse, add items to a cart, and view their selections.<br><br> It was assigned by Sir Gulsher Laghari.
